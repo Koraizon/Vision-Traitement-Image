@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="298f40bf-aca3-439d-979d-5d85f21c12bb" name="Changes" comment="etape 1,2,3,4,5 faites">
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnit5Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/lenaBruit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ImageProcessing/Histogramme/Histogramme.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ImageProcessing/Histogramme/Histogramme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/isilimageprocessing/IsilImageProcessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/isilimageprocessing/IsilImageProcessing.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2QVnYJ0usMDQZrLDCWuAmZXoeR5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;449&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Testing&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Downloads/Etudes 2023-2024/Vision/opencv/build/java/x64/opencv_java480.dll&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.IsilImageProcessing">
+    <configuration name="IsilImageProcessing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="isilimageprocessing.IsilImageProcessing" />
+      <module name="IsilImageProcessing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="isilimageprocessing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUnit5Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IsilImageProcessing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JUnit5Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUnit5Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IsilImageProcessing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JUnit5Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUnit5Tests.testSeuillageSimple" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IsilImageProcessing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JUnit5Tests" />
+      <option name="METHOD_NAME" value="testSeuillageSimple" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IsilImageProcessing" />
+        <item itemvalue="JUnit.JUnit5Tests" />
+        <item itemvalue="JUnit.JUnit5Tests.testSeuillageSimple" />
+        <item itemvalue="JUnit.JUnit5Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="298f40bf-aca3-439d-979d-5d85f21c12bb" name="Changes" comment="" />
+      <created>1685447663286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685447663286</updated>
+      <workItem from="1685447664447" duration="4154000" />
+      <workItem from="1685453094050" duration="16855000" />
+      <workItem from="1685518442532" duration="10357000" />
+      <workItem from="1685632078756" duration="177000" />
+      <workItem from="1685693884388" duration="15719000" />
+      <workItem from="1685790867660" duration="161000" />
+      <workItem from="1685794714736" duration="6995000" />
+      <workItem from="1685873592977" duration="110000" />
+      <workItem from="1685873788506" duration="27000" />
+      <workItem from="1685880409790" duration="51000" />
+      <workItem from="1685950599868" duration="195000" />
+      <workItem from="1685950931283" duration="610000" />
+      <workItem from="1685958339230" duration="239000" />
+      <workItem from="1685959501433" duration="4573000" />
+      <workItem from="1685986474503" duration="2166000" />
+      <workItem from="1686045470087" duration="5859000" />
+      <workItem from="1686138365500" duration="11000" />
+      <workItem from="1686138389468" duration="892000" />
+      <workItem from="1686140195954" duration="381000" />
+      <workItem from="1687809267703" duration="61000" />
+      <workItem from="1687809337164" duration="619000" />
+      <workItem from="1693474705922" duration="344000" />
+      <workItem from="1693475189519" duration="318000" />
+      <workItem from="1693483481182" duration="1684000" />
+      <workItem from="1693489405789" duration="13000" />
+      <workItem from="1695300563706" duration="4600000" />
+      <workItem from="1697036420555" duration="1730000" />
+      <workItem from="1697441735817" duration="36000" />
+    </task>
+    <task id="LOCAL-00001" summary="interface graphique faites problemes pour les contours">
+      <created>1685460571983</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685460571983</updated>
+    </task>
+    <task id="LOCAL-00002" summary="etape 1, 2, 3 et 4 finies">
+      <created>1685472184316</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685472184316</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ajout photos etape 5">
+      <created>1685472278115</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685472278115</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixes">
+      <created>1685474692632</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685474692632</updated>
+    </task>
+    <task id="LOCAL-00005" summary="error erosion, dilatation and masqueConvolution fixed">
+      <created>1685476341456</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685476341456</updated>
+    </task>
+    <task id="LOCAL-00006" summary="bug fixed + application menu created">
+      <created>1685525424514</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685525424514</updated>
+    </task>
+    <task id="LOCAL-00007" summary="contours non lineaire filtre laplacien non lineaire fixed">
+      <created>1685531407284</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685531407284</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Menu reorganises">
+      <created>1685632247654</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685632247654</updated>
+    </task>
+    <task id="LOCAL-00009" summary="luminance fixed">
+      <created>1685708366022</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1685708366022</updated>
+    </task>
+    <task id="LOCAL-00010" summary="luminance fixed">
+      <created>1685708509563</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685708509563</updated>
+    </task>
+    <task id="LOCAL-00011" summary="etape 3 commencée">
+      <created>1685709032726</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1685709032726</updated>
+    </task>
+    <task id="LOCAL-00012" summary="etape 3 commencée">
+      <created>1685709082028</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1685709082028</updated>
+    </task>
+    <task id="LOCAL-00013" summary="RGB images done">
+      <created>1685714652355</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1685714652355</updated>
+    </task>
+    <task id="LOCAL-00014" summary="inversion image done">
+      <created>1685716921218</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1685716921218</updated>
+    </task>
+    <task id="LOCAL-00015" summary="etape 5 finie">
+      <created>1685801683964</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1685801683964</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Filtre median applicable RGB">
+      <created>1685951353418</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1685951353418</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Histogramme fixed">
+      <created>1685962119634</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1685962119634</updated>
+    </task>
+    <task id="LOCAL-00018" summary="etape 1,2,3,4,5 faites">
+      <created>1685986457084</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1685986457084</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="interface graphique faites problemes pour les contours" />
+    <MESSAGE value="etape 1, 2, 3 et 4 finies" />
+    <MESSAGE value="ajout photos etape 5" />
+    <MESSAGE value="fixes" />
+    <MESSAGE value="error erosion, dilatation and masqueConvolution fixed" />
+    <MESSAGE value="bug fixed + application menu created" />
+    <MESSAGE value="contours non lineaire filtre laplacien non lineaire fixed" />
+    <MESSAGE value="Menu reorganises" />
+    <MESSAGE value="luminance fixed" />
+    <MESSAGE value="etape 3 commencée" />
+    <MESSAGE value="RGB images done" />
+    <MESSAGE value="inversion image done" />
+    <MESSAGE value="etape 5 finie" />
+    <MESSAGE value="Filtre median applicable RGB" />
+    <MESSAGE value="Histogramme fixed" />
+    <MESSAGE value="etape 1,2,3,4,5 faites" />
+    <option name="LAST_COMMIT_MESSAGE" value="etape 1,2,3,4,5 faites" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
